@@ -12,6 +12,8 @@ C115LCD display(OLED_RESET);
 #define DELTAY 2
 
 //test
+//test2
+//test3
 
 #define LOGO16_GLCD_HEIGHT 16 
 #define LOGO16_GLCD_WIDTH  16 
